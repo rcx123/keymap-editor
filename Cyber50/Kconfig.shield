@@ -1,0 +1,5 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config SHIELD_Cyber50
+	def_bool $(shields_list_contains,Cyber50)

@@ -1,0 +1,8 @@
+file_format: "1"
+id: Cyber50   
+name: Cyber50
+type: shield
+url: 
+requires: [nrfmicro_13_52840]
+features:
+  - keys
